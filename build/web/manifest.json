@@ -2,7 +2,7 @@
     "name": "HeyCode Inc",
     "short_name": "HeyCode Inc",
     "start_url": ".",
-    "display": "fullsreen",
+    "display": "fullscreen",
     "background_color": "#0175C2",
     "theme_color": "#000000",
     "description": "An WebApp for HeyCode Inc.",

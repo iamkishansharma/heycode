@@ -101,7 +101,7 @@ class MobileNavbar extends StatelessWidget {
       padding: const EdgeInsets.symmetric(vertical: 20, horizontal: 40),
       child: Container(
         child: Column(children: <Widget>[
-          Image.asset('assets/images/hc_white_trans.png',height: MediaQuery.of(context).size.width*.20,),
+          Image.asset('assets/images/hc_white_trans.png',height: MediaQuery.of(context).size.width*.26,),
           // Text(
           //   "HeyCode Inc.",
           //   style: TextStyle(

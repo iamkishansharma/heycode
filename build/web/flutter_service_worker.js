@@ -18,8 +18,8 @@ const RESOURCES = {
 "icons/Icon-512.png": "1e09bed4d17114794d391f16ee86aaef",
 "index.html": "1e08ab1b1a21252ccdf688a276e6bed5",
 "/": "1e08ab1b1a21252ccdf688a276e6bed5",
-"main.dart.js": "6bb966f4fc636076f01ea8822a821ecd",
-"manifest.json": "ba539ccf0d1e5496b52a639a3a2f7141"
+"main.dart.js": "1f4f7dd65a833e26d3ceeeaa71e86d81",
+"manifest.json": "74d08ce1131b9cdfd6ae1bbdb3459bfa"
 };
 
 self.addEventListener('activate', function (event) {
